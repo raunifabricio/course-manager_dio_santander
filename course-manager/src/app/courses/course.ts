@@ -1,4 +1,4 @@
-export class Course { 
+export class Course {
     id: number;
     name: string;
     imageUrl: string;
